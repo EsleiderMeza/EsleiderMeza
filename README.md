@@ -99,13 +99,6 @@ Desarrollo de automatizaciones y soluciones backend con Python, APIs REST, webho
 
 ---
 
-### 📊 Estadísticas
-
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EsleiderMeza&show_icons=true&theme=default&hide_border=true)
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=EsleiderMeza&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EsleiderMeza&layout=compact&hide_border=true)
 
 </div>
 
